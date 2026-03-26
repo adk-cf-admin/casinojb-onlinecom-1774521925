@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#292D2E",
+            "lang-select-color": "#222829",
+            "bg-light": "#292D2E",
+            "welcome-bonus-bg": "#292D2E",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#42484a",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#FFCF00",
+            "text-head": "#292D2E",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FFCF00",
+            "yellow": "#5b6466",
+            "yellow-button": "#FFCF00",
+            "button-text": "#ffffff",
+            "main-button-text": "#292D2E",
+            "border-color": "#efefdc",
+            "casino-cards": "#292D2E",
+            "bonus-border-head": "#292D2E",
+            "bonus-border": "#ffffff",
+            "providers-back": "#292D2E",
+            "faq-label": "#292D2E",
+            "bg-footer": "#292D2E",
+            "copyright": "#e7e7d5",
+            "starColor": "#FFCF00",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5203"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5205",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "JB Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5206",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "JB Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "JB Casino",
+                    "title": "JB Casino — Best Crypto Casino in Australia | AU$4,000 Bonus",
+                    "description": "Play at JB Casino Australia with 10,000+ pokies, live dealer tables & instant crypto withdrawals. Claim AU$4,000 bonus + 400 free spins. Join now!",
+                    "canonical": "casinojb-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5207",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinojb-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5208"
+                },
+                "hero": {
+                    "title": "Australia's Premier Crypto Online Casino",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5209",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -6,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5210",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a top-rated crypto casino in Australia? We hold a Curaçao eGaming license, use SSL 256-bit encryption, and feature RNG-certified games audited by iTech Labs under ISO\/IEC 17025. Here's why Aussie players choose us:",
+                    "items": [
+                        "Licensed under Curaçao eGaming with iTech Labs RNG certification (ISO\/IEC 17025)",
+                        "10,000+ pokies & live tables from Evolution, Ezugi, and Pragmatic Play",
+                        "130+ cryptocurrencies accepted — BTC, ETH, USDT, SOL with instant withdrawals",
+                        "AU$4,000 welcome package + 400 free spins + 3 USDT no deposit bonus",
+                        "24\/7 live chat support for Australian players in English",
+                        "Full mobile casino — native iOS & Android apps, all features available"
+                    ],
+                    "advantagesAfterText": "Join thousands of Australian players enjoying certified fair gaming and lightning-fast crypto payouts. Our English-speaking support team is available 24\/7\/365 via live chat.",
+                    "knowMore": "Know more",
+                    "appTitle": "JB Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5211",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "JB Casino App",
+                    "mobileGooglePlayImageTitle": "JB Casino App",
+                    "mobileIosImageTitle": "JB Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About JB Casino",
+                        "description1": "We are a leading crypto online casino welcoming Australian players with 10,000+ games, lightning-fast payouts, and a crypto-first platform built for speed and fairness. Licensed under Curaçao eGaming.",
+                        "items": [
+                            "Launched as a crypto-first gaming platform for global players",
+                            "Expanded to 10,000+ games from 45+ certified providers",
+                            "Introduced 130+ crypto payment options including BTC, ETH, USDT",
+                            "Achieved iTech Labs RNG certification under ISO\/IEC 17025 standard"
+                        ],
+                        "description2": "We operate under Curaçao eGaming license with SSL 256-bit encryption securing 100% of transactions. All games pass RNG audits by iTech Labs ensuring certified fair outcomes for every Australian player.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5212",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continuously expand our pokies and live dealer portfolio for Aussie players. Our responsible gaming tools include deposit limits and self-exclusion. Start playing today and claim your AU$4,000 bonus!"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "10,000+ Casino Games for Aussie Players",
+                        "description": "<h2>The Ultimate Game Portfolio at JB Casino Australia<\/h2>\n\n<p>At JB Casino, we offer one of the most extensive gaming libraries available to Australian players, with over 10,000 titles spanning pokies, live dealer tables, table games, and exclusive game shows. Our platform is powered by more than 45 world-renowned software providers, including Evolution Gaming, Ezugi, Pragmatic Play, and NetEnt — all certified for fair play and independently audited by iTech Labs under the ISO\/IEC 17025 standard. Whether you're spinning the reels on a progressive jackpot pokie or facing a professional live dealer in real-time HD, JB Casino delivers a premium gambling experience tailored specifically for Aussie players. Our entire game library is accessible on desktop and mobile, with full functionality preserved across iOS and Android devices.<\/p>\n\n<h3>Pokies & Slots — Australia's Favourite Casino Games<\/h3>\n\n<p>Our pokies section is the beating heart of JB Casino, featuring over 8,000 licensed slot titles that cater to every preference and budget. Australian players will find everything from classic 3-reel fruit machines to modern 6-reel video pokies with sophisticated bonus mechanics. We source our pokies from industry leaders including Pragmatic Play, NetEnt, Microgaming, Play'n GO, and Yggdrasil — all providers with independently verified RNG systems. Wondering which pokies pay the best? Our top-performing titles boast RTP rates above 96%, with standout games like Gates of Olympus (RTP 96.5%), Sweet Bonanza (RTP 96.51%), and Book of Dead (RTP 96.21%) available to all registered Australian players.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic Pokies:<\/strong> Over 500 traditional 3-reel and 5-reel titles from Microgaming and NetEnt with straightforward mechanics, wild symbols, and scatter pays — ideal for Aussie beginners looking to enjoy uncomplicated betting from AU$0.10 per spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Pokies:<\/strong> More than 6,000 feature-rich video slots with multi-level bonus rounds, cascading reels, megaways mechanics (up to 117,649 ways to win), expanding wilds, and free spin features. Max win potential reaches 25,000x your stake on select titles.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpot Pokies:<\/strong> We feature a dedicated progressive jackpot section with life-changing prize pools, including Mega Moolah from Microgaming — historically one of the largest jackpot payers in online casino history — and Divine Fortune by NetEnt, both available for Australian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Pokies:<\/strong> Our Megaways collection includes Big Bass Bonanza Megaways, Extra Chilli Megaways, Gonzo's Quest Megaways, and 200+ additional titles from Big Time Gaming and licensed partners, offering dynamic reel configurations and massive win potential.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Crypto-Exclusive Pokies:<\/strong> As a crypto-first gaming platform, we offer select titles optimised for Bitcoin and USDT micro-betting, allowing Aussie players to wager from 0.001 BTC with instant settlements and zero withdrawal fees.<\/li>\n<\/ul>\n\n<h3>Live Dealer Casino — Real Tables, Real Thrills for Australian Players<\/h3>\n\n<p>Our live casino section brings the authentic atmosphere of a premium casino floor directly to Australian players, streaming in HD from professional studios operated by Evolution Gaming and Ezugi. We host over 100 live dealer tables covering every major table game variant, with English-speaking dealers available around the clock. Every game is streamed at 4K resolution with low latency, ensuring a seamless experience whether you're playing from Sydney, Melbourne, Brisbane, or anywhere across Australia. Looking for live entertainment with multipliers and bonus rounds? Our game show collection includes Crazy Time, Lightning Roulette, Deal or No Deal Live, and Gonzo's Treasure Hunt — exclusive high-energy experiences that combine live casino with interactive entertainment.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> Including European Roulette (RTP 97.3%), Lightning Roulette with up to 500x multipliers, Speed Roulette for fast-paced sessions, Immersive Roulette with multi-camera HD, and Dealer's Choice Roulette tables — all accessible with AUD-equivalent crypto stakes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Classic Blackjack (RTP 99.5%), Infinite Blackjack with unlimited seat capacity, Lightning Blackjack with random multipliers up to 25x, and VIP Blackjack tables with elevated betting limits for high-roller Aussie players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Standard Baccarat (RTP 98.94%), Speed Baccarat for rapid-fire rounds, Baccarat Squeeze for enhanced suspense, and No Commission Baccarat — all powered by Evolution Gaming with English-language interface fully compatible for Australian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker Variants:<\/strong> Three Card Poker, Caribbean Stud Poker with a progressive jackpot reaching $250,000+, Casino Hold'em, and Texas Hold'em Bonus — professional English-speaking dealers guide you through every hand in real time.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Game Shows:<\/strong> Crazy Time (max win 20,000x), Monopoly Live combining board game interactivity with casino mechanics, Mega Ball bingo-lottery hybrid, and Deal or No Deal Live — unique entertainment-style games that deliver both fun and real money winning potential.<\/li>\n<\/ul>\n\n<h3>Table Games & Specialty Options at JB Casino<\/h3>\n\n<p>Beyond pokies and live dealer tables, we provide Australian players with a comprehensive selection of RNG-based table games, video poker, and specialty gaming options. Our table game library includes over 500 titles featuring multiple variants of roulette, blackjack, baccarat, craps, and poker — all powered by certified random number generators. Video poker enthusiasts will enjoy classics like Jacks or Better (RTP up to 99.54%), Double Double Bonus Poker, and Deuces Wild. Additionally, our platform includes a fully integrated sportsbook covering AFL, NRL, cricket, and all major Australian sporting events, as well as a lottery section for Aussie players who prefer an alternative style of gaming excitement.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #fdbb11;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">RTP<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Min Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #2b2d30;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Pokies<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">94–97.3%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">AU$0.10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #34363a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">99.5%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">AU$1<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2b2d30;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">97.3%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">AU$0.20<\/td>\n    <\/tr>\n    <tr style=\"background-color: #34363a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">98.94%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">AU$1<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2b2d30;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Video Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">up to 99.54%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">AU$0.25<\/td>\n    <\/tr>\n    <tr style=\"background-color: #34363a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Live Tables<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">97–99.5%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">AU$0.50<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Mobile Gaming — Full Casino Experience on Any Device<\/h3>\n\n<p>We understand that Australian players love gaming on the go, which is why our entire platform is fully optimised for mobile. JB Casino offers dedicated native apps for both iOS (iPhone and iPad) and Android devices, downloadable directly from the App Store and Google Play. The mobile experience mirrors the desktop platform with no compromise — full access to all 10,000+ pokies, live dealer tables, sportsbook, and crypto banking. Our mobile apps support instant deposits and withdrawals in Bitcoin, USDT, and other major cryptocurrencies, ensuring Australian players can manage their funds from anywhere across the country. The interface is specifically designed for touchscreens with intuitive navigation, fast load times under 3 seconds, and push notifications for new bonuses and promotions tailored to Aussie players.<\/p>\n\n<h3>Responsible Gaming Tools for Australian Players<\/h3>\n\n<p>We are committed to providing a safe and responsible gambling environment for all Australian players. Our platform includes a comprehensive suite of responsible gaming tools designed to keep your play enjoyable and within healthy limits. You can set daily, weekly, or monthly deposit limits directly from your account dashboard. Self-exclusion options are available for periods ranging from 24 hours to permanent account suspension. We also offer reality checks — customisable session time reminders that alert you after a set playing period. Our dedicated responsible gaming team operates in English and is reachable 24\/7 via live chat for Australian players who need support or guidance. We partner with recognised problem gambling support services to ensure help is always available.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Crypto Banking & Bonuses for AU Players",
+                        "description": "<h2>Deposits, Withdrawals & Bonuses at JB Casino Australia<\/h2>\n\n<p>At JB Casino, we've built a financial ecosystem designed to make banking effortless for Australian crypto players. As a crypto-first gaming platform, we support over 130 cryptocurrencies — more than virtually any other online casino available to Aussie players — including Bitcoin (BTC), Ethereum (ETH), Tether (USDT), Solana (SOL), Binance Coin (BNB), Ripple (XRP), Cardano (ADA), Dogecoin (DOGE), and many more. All cryptocurrency deposits process instantly with zero confirmation wait times on major chains, and withdrawals complete in minutes rather than the days you'd wait at a traditional fiat casino. For Australian players who prefer conventional payment methods, we also accept Visa, Mastercard, and Apple Pay. Every transaction is secured by SSL 256-bit encryption, and our compliance with Curaçao eGaming licence standards ensures all financial operations meet internationally recognised anti-fraud and AML requirements.<\/p>\n\n<h3>How to Deposit at JB Casino as an Australian Player<\/h3>\n\n<p>Making a deposit at JB Casino is fast, straightforward, and flexible. Simply log into your account, navigate to the cashier section, and select your preferred payment method. For crypto deposits, choose your currency — Bitcoin, USDT, Ethereum, or any of our 130+ supported coins — copy the wallet address or scan the QR code, and send your funds. Crypto deposits typically reflect in your JB Casino balance within 1-3 network confirmations, often under 5 minutes. For Visa and Mastercard deposits, Australian players can fund their accounts within seconds using standard card details. The minimum deposit is AU$10 equivalent across all payment methods, making JB Casino accessible for recreational Aussie players and high rollers alike.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bitcoin (BTC):<\/strong> Our most popular deposit method among Australian players. Instant processing, zero fees on our end, minimum deposit 0.0001 BTC. Withdrawals process within 10-30 minutes depending on network congestion.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Tether (USDT):<\/strong> Available on TRC-20, ERC-20, and BEP-20 networks for ultra-low fees. Ideal for Australian players wanting stable value without crypto volatility. Instant deposits, withdrawals within 5-15 minutes on TRC-20.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Ethereum (ETH):<\/strong> Full ETH support with deposits crediting after 12 network confirmations. Popular choice for Aussie players already holding ETH in MetaMask or hardware wallets.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa & Mastercard:<\/strong> Fiat card payments accepted for Australian players who prefer traditional banking. Instant deposits processed in AUD equivalent, with withdrawals to original card taking 1-3 business days.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Apple Pay:<\/strong> Convenient tap-to-pay deposits for Australian iPhone users. Link your Australian bank card or credit card to Apple Pay for seamless one-touch deposits directly from your iOS device.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>130+ Altcoins:<\/strong> From Solana and Avalanche to Shiba Inu and Polkadot — if you hold any major altcoin, we accept it. Australian crypto enthusiasts can even request addition of new tokens through our support team.<\/li>\n<\/ul>\n\n<h3>Welcome Bonus — AU$4,000 Package + 400 Free Spins<\/h3>\n\n<p>We welcome every new Australian player with one of the most generous bonus packages available in the online casino market. Our four-part welcome offer delivers up to AU$4,000 in bonus funds plus 400 free spins across your first deposits. Additionally, new players receive a 3 USDT no deposit bonus — meaning you can start exploring JB Casino's game library with real funds before making a single deposit. This makes JB Casino one of the few online casinos offering Australian players genuine risk-free trial access. All welcome bonuses carry transparent wagering requirements, clearly displayed before you opt in, with no hidden clauses or unfair restrictions.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #fdbb11;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Bonus<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Amount<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Spins<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #2b2d30;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>No Deposit<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">3 USDT<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">—<\/td>\n    <\/tr>\n    <tr style=\"background-color: #34363a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>1st Deposit<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">100% up to AU$1,000<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">100 FS<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2b2d30;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>2nd Deposit<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">75% up to AU$1,000<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">100 FS<\/td>\n    <\/tr>\n    <tr style=\"background-color: #34363a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>3rd Deposit<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">50% up to AU$1,000<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">100 FS<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2b2d30;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>4th Deposit<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">25% up to AU$1,000<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">100 FS<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>VIP Club & Loyalty Rewards for Loyal Aussie Players<\/h3>\n\n<p>Our VIP Club is designed to reward Australian players who make JB Casino their home. As you play and wager across our pokies, live tables, and sportsbook, you accumulate loyalty points that advance your VIP tier. Each tier unlocks progressively better perks: higher cashback percentages, dedicated account managers, personalised bonuses tailored to your gaming preferences, priority withdrawals, and — at the highest VIP levels — zero-fee crypto withdrawals with no transaction limits. High-roller Aussie players can also access exclusive invitation-only tournaments and events with prize pools funded in cryptocurrency. Our VIP programme is transparent, with clear tier advancement requirements visible from your account dashboard at all times.<\/p>\n\n<h3>Ongoing Promotions for Australian Players<\/h3>\n\n<p>Beyond the welcome package, we run a diverse calendar of ongoing promotions specifically designed to keep Australian players engaged and rewarded. Our weekly reload bonuses deliver additional funds on your mid-week and weekend deposits. Crypto boost promotions offer enhanced deposit match percentages when funding your account with Bitcoin or USDT — especially valuable for Aussie crypto enthusiasts looking to maximise their bankroll. Regular tournaments on our most popular pokies and live dealer tables award prize pools distributed among the top-performing Australian players each week. We also run free spin drops, cashback offers on losing sessions, and seasonal promotions aligned with major Australian events including the AFL Grand Final and Melbourne Cup season — keeping our promotions relevant and exciting for Aussie players year-round.<\/p>\n\n<h3>Security & Fairness — Why Australian Players Trust JB Casino<\/h3>\n\n<p>We take the security and fairness of our platform extremely seriously, implementing multiple layers of protection for every Australian player. Our Curaçao eGaming licence requires us to maintain rigorous standards of operational integrity, player fund protection, and responsible gambling compliance. All game outcomes are generated by certified Random Number Generators (RNG), independently audited by iTech Labs under the internationally recognised ISO\/IEC 17025 accreditation standard — guaranteeing that every spin, every card, and every roll is completely random and tamper-proof. Our platform uses SSL 256-bit encryption across all data transmissions, protecting your personal information and financial transactions from any third-party interception. For Australian players, we maintain strict KYC (Know Your Customer) verification procedures aligned with global AML standards, ensuring a safe and trusted gambling environment for every registered member.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Is JB Casino legal and safe for Australian players?",
+                            "answer": "Yes, JB Casino operates under a valid Curaçao eGaming licence with SSL 256-bit encryption protecting all data. Our games are RNG-certified by iTech Labs under ISO\/IEC 17025. Australian players can enjoy secure, fair gaming with full confidence in our platform's integrity and transparency."
+                        },
+                        {
+                            "title": "What welcome bonus do Australian players get at JB Casino?",
+                            "answer": "New Australian players receive a 4-part welcome package worth up to AU$4,000 plus 400 free spins across their first four deposits. Additionally, we offer a 3 USDT no deposit bonus so you can try real games before funding your account. Bonus terms are clearly stated with no hidden conditions."
+                        },
+                        {
+                            "title": "Which cryptocurrencies can I use to deposit at JB Casino?",
+                            "answer": "We accept 130+ cryptocurrencies including Bitcoin, Ethereum, USDT, Solana, BNB, XRP, Cardano, Dogecoin, and more. Crypto deposits are instant with zero fees on our end. Australian players can also use Visa, Mastercard, and Apple Pay for convenient fiat deposits in AUD equivalent."
+                        },
+                        {
+                            "title": "How long do withdrawals take at JB Casino Australia?",
+                            "answer": "Crypto withdrawals at JB Casino process within minutes — typically 5-30 minutes depending on network speed. Bitcoin withdrawals complete in under 30 minutes, while USDT on TRC-20 settles in 5-15 minutes. Card withdrawals to Visa or Mastercard take 1-3 business days for Australian players."
+                        },
+                        {
+                            "title": "Can I play JB Casino pokies on my mobile phone in Australia?",
+                            "answer": "Absolutely. JB Casino offers native apps for iOS and Android with access to all 10,000+ games including pokies, live dealer tables, and the sportsbook. The mobile platform supports full crypto banking functionality. Download the app from the App Store or Google Play for the best Aussie experience."
+                        },
+                        {
+                            "title": "How do I claim the no deposit bonus at JB Casino?",
+                            "answer": "Register your JB Casino account using a valid email address and complete basic verification. Your 3 USDT no deposit bonus is credited automatically upon successful registration — no deposit or promo code required. Use the bonus to explore our pokies and live dealer games risk-free before depositing."
+                        },
+                        {
+                            "title": "Does JB Casino offer a VIP programme for Australian players?",
+                            "answer": "Yes, our VIP Club rewards loyal Australian players with cashback, personalised bonuses, priority withdrawals, and zero-fee crypto payouts at top tiers. Advance through VIP levels by wagering on pokies, live tables, or sportsbook. Dedicated account managers assist VIP players 24\/7 in English."
+                        },
+                        {
+                            "title": "What live dealer games are available at JB Casino?",
+                            "answer": "We host 100+ live dealer tables from Evolution Gaming and Ezugi, including Lightning Roulette, VIP Blackjack, Speed Baccarat, Three Card Poker, Crazy Time, Deal or No Deal Live, and Gonzo's Treasure Hunt. All tables stream in HD with English-speaking dealers available around the clock for Aussie players."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

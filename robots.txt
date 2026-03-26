@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinojb-online.com/
+Sitemap: https://casinojb-online.com/sitemap.xml
